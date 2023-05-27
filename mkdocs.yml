@@ -20,9 +20,6 @@ theme:
     
 extra:
     generator: false
-    analytics:
-        provider: custom
-        property: foobar # (1)!
     
 docs_dir: src
 
