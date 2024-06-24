@@ -5,8 +5,10 @@ Alpaca tinder is an alpaca-based dataset sorting tool for fine-tuning language m
 It allows you to upvote or downvote a conversation and then export the filtered dataset as a json file.
 
 ![alt text](export.png)
+
 Stack:
 - Svelte
 - Pocketbase
+
 
 [Github Repo](https://github.com/urbanlab/alpaca-tinder)

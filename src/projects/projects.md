@@ -11,15 +11,23 @@
 
 [Erasme - Datatlas](https://www.erasme.org/DatAtlas) - A tool for creating interactive web maps
 
+[Erasme - Gestion Inventaire](gestion_inventaire/gest.md) - A tool for managing the inventory of he Erasme Techshop using notion tables
+
 ## Cybersecurity
 [open intimacy explorer](open_intimacy_explorer/open_intimacy_explorer.md) - open camera finder
 
 ## AI
+
+[Inook - Grand Mix](grandmix/grandmix.md) - Dancing and Singing Artwork Mapping
+
+[hyperfantasia](hyperfantasia/hyperfantasia.md) - chauvet cave hallucination
+
+[Erasme - Alpaca Tinder](alpaca-tinder/alpaca.md) - A dataset sorter for alpaca datasets
+
 [stableai](stableai/stableai.md) - A plateform to play with the latest AI research papers
 
 [narcissistyassinsiouda](narcissistyassinsiouda/narcissistyassinsiouda.md) - ai generated yassin siouda
 
-[hyperfantasia](hyperfantasia/hyperfantasia.md) - chauvet cave hallucination
 
 [cobalt](cobalt/cobalt.md) - audio reactive ai video generation
 
