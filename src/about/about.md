@@ -2,18 +2,12 @@
 
 ![](profile.png)
 
-I am **developer |** **musician | visual artist** based in **Lyon** working with mixed media.  
+Hello i'm Yassin a Freelance Full Stack Devops open to remote (or on site Lyon/Paris/Geneva) Work. I'm a creative developer with a passion for machine learning, visual arts, and live coding. I have a strong background in software engineering, with experience in developing web applications, deploying GPU clusters, and training visual models. I have a deep understanding of Kubernetes, Docker, and CI/CD pipelines, and I am proficient in Python and JavaScript.
 
 
 **Cofounder of :**
 
-**[TheShowMustGoLive](https://theshowmustgo.live/)** | Support Culture  
-
-[**Bon Public**](https://bonpublic.space/) | Music Label  
-
-[**Protocoll**](https://protocoll.network/) | Digital Art Studio
-
-[**Localhost**]() | Space 
+**[Creative Code Lyon](https://creative-code-lyon.github.io)**
 
 **Contact :  
 yassin[at]siouda.com**
@@ -21,6 +15,10 @@ yassin[at]siouda.com**
 
 **Social networks**
 
-[Twitter](https://twitter.com/SioudaYassin)  
-[LinkedIn](https://www.linkedin.com/in/yassinsiouda/)  
 [Github](http://github.com/Pipazoul)
+
+[Mastodon](https://mastodon.doesnotexist.club/@yassinsiouda)
+
+[Twitter](https://twitter.com/SioudaYassin)  
+
+[LinkedIn](https://www.linkedin.com/in/yassinsiouda/)  
