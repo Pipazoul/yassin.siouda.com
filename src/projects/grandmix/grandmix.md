@@ -1,4 +1,4 @@
-# Grand Mix
+# 🧱 Grand Mix
 
 Creation of a tech stack (pipeline of machine learning models) to enable [Inook](https://www.inook.com/) to generate face animations for the grand mix project broadcast in Eindhove / Morat.
 

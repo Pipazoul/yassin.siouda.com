@@ -1,14 +1,11 @@
-# StableAi
+# 🧠 StableAi
+
+StableAi is a project developed with Pony Makers (Jean Michel Pothelune).
+It's a platform that facilitates access to the latest research papers on machine learning for art and design.
 
 
-
-[StableAi](https://stableai.club/) est un projet developpe avec  Pony Makers (Jean Michel Pothelune)
-Il s'agit d'une plateforme facilitant l'acces au derniers papier de recherche autour du machine learning oriente art et design
-
-
-
-A ce jour il integre les fonctionnalites suivantes
-- Interface de generation d'images avec Stable Diffusion
-- Interface permettant l'entrainement  de modeles pour stable diffusion :
+To date, it integrates the following functionalities
+- Image generation interface with Stable Diffusion
+- Interface for training models for Stable Diffusion:
 - Stable outpainting
 

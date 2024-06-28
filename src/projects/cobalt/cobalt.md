@@ -7,4 +7,11 @@ COBALT is a tool for generating  audio reactive videos based on artificial intel
 
 The video is based on stylegan2 and is extracted in separate tracks using a machine learning model called Spleeter
 
-[link to repository](https://github.com/Pipazoul/cobalt)
+Stack:
+
+- Google Colab
+- Python
+  - Spleeter
+  - Stylegan2
+
+[Github](https://github.com/Pipazoul/cobalt)

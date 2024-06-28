@@ -16,3 +16,9 @@ On the basis of the photos that I took since my childhood (2008) I extracted all
 ![](thiseye.png)
 
 This model was trained on the basis of the many pinterest boards that can be found around the subject of eyes and makeup, an ideal source of data since they are standardized to be integrated on e-commerce sites
+
+
+Stack:
+
+- Python
+- Stylegan2
