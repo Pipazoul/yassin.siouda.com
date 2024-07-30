@@ -20,6 +20,13 @@ theme:
     
 extra:
     generator: false
-    
+    analytics:
+        provider: plausible
+        domain: yassin.siouda.com
+        src: "https://plausible.doesnotexist.club/js/script.js"
+
+plugins:
+  - material-plausible
+
 docs_dir: src
 

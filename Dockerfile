@@ -3,7 +3,7 @@
 FROM python:3.8-slim-buster as builder
 
 # Install dependencies
-RUN pip install mkdocs mkdocs-material 
+RUN pip install mkdocs mkdocs-material material-plausible-plugin
 
 # Set the working directory
 WORKDIR /app
