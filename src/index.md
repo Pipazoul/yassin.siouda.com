@@ -2,7 +2,7 @@
 
 👋 Hello i'm Yassin im' a Freelance Full Stack Devops open to remote (or on site **Lyon - Paris - Geneva**) Work. I'm a creative developer with a passion for **machine learning**, **visual arts**, and **live coding**. I have a strong background in software engineering, with experience in developing web applications, **deploying GPU clusters**, and training visual models. I have a deep understanding of **Kubernetes**, **Docker**, and **CI/CD** pipelines, and I am proficient in Python and JavaScript.
 
-**Available for hire, especially if you are 🤗 Hugging Face**
+**Available for hire, especially if you are 🤗 Hugging Face or Replicate**
 
 ## Last projects
 - [🧱 Inook - Grand Mix](projects/grandmix/grandmix.md) Dancing and Singing Artwork Mapping
