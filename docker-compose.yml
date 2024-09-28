@@ -1,0 +1,6 @@
+services:
+  site: 
+    build: .
+    image: yassinsiouda/yassinsiouda:latest
+    ports:
+      - 8040:80
