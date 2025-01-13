@@ -7,16 +7,9 @@ nav:
     - Events: events/events.md
     - Articles: articles/articles.md
     - About: about/about.md
-theme: 
-    name: material
-    logo: 
-    font:
-        text: Red Hat Mono
-    palette: 
-        primary: black
-        accent: black
-    plugins:
-        - tags
+theme:
+  name: terminal
+  palette: dark
     
 extra:
     generator: false
