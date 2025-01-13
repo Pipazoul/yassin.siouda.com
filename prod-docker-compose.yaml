@@ -1,9 +1,9 @@
 services:
   docsify:
-    image: yassinsiouda/yassinsiouda:dev
+    image: yassinsiouda/yassinsiouda:latest
     build: 
       context: .
       dockerfile: Dockerfile
-      target: dev
+      target: prod
     ports:
-      - "8000:8000"
+      - "8080:80"

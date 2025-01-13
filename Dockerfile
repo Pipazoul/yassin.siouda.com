@@ -1,21 +1,32 @@
-# Multistage build
-# Stage 1: Build the app
-FROM python:3.8-slim-buster as builder
+FROM python:3.11-alpine as dev
+
+WORKDIR /app
+
+COPY . /app
 
 # Install dependencies
-RUN pip install mkdocs mkdocs-material material-plausible-plugin
+RUN pip install -r requirements.txt
+
+
+ENTRYPOINT [ "mkdocs", "serve", "--dev-addr", "0.0.0.0:8000" ]
+
+FROM python:3.11-alpine as builder
 
 # Set the working directory
 WORKDIR /app
 
 # Copy the source code
-COPY . /app
+COPY --from=dev /app /app
+
+# Install dependencies
+RUN pip install -r requirements.txt
 
 # Build the app
 RUN mkdocs build
 
+
 # Stage 2: Serve the app
-FROM nginx:1.19.6-alpine
+FROM nginx:alpine as prod
 
 # Copy the app from the builder stage
 COPY --from=builder /app/site /usr/share/nginx/html
